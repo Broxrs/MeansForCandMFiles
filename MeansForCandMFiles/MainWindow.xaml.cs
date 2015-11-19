@@ -23,7 +23,6 @@ namespace MeansForCandMFiles
         public MainWindow()
         {
             InitializeComponent();
-            Console.WriteLine();
         }
     }
 }
